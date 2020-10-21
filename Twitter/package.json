@@ -1,0 +1,20 @@
+{
+  "name": "OAuth-with-Hapi",
+  "version": "1.0.0",
+  "description": "Simple project showing social login with hapijs and bell.",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Srivastava",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bell": "^7.9.3",
+    "boom": "^3.1.1",
+    "hapi": "^13.4.1",
+    "hapi-auth-cookie": "^6.1.1",
+    "nodemon": "^2.0.6"
+  },
+  "keywords": []
+}
